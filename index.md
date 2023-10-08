@@ -22,8 +22,11 @@ spec:
 - [Talk](#talk)
 
 ## Roadmap
-* [NoSQL vs. SQL: Important Differences & Which One Is Best for Your Project](https://www.upwork.com/resources/nosql-vs-sql)
+* [Golang developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 ## Book
+* [A Tour of Go](https://go.dev/tour/welcome/1)
+* [go proverbs](https://go-proverbs.github.io/)
+* [100 Go Mistakes](https://github.com/Nghiait123456/100GoMistakeUpdate)
 * [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
 ## Talk
-* [Policy as code with bamboo firewall](https://github.com/bamboo-firewall/docs/blob/main/case-studies/PaC-with-bamboofw.pdf)
+* [comming soon](https://github.com/bamboo-firewall/docs/blob/main/case-studies/PaC-with-bamboofw.pdf)
