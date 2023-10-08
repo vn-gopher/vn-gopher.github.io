@@ -23,7 +23,7 @@ spec:
 
 ## Roadmap
 * [Golang developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
-* ![images](./imgs/golang-developer-roadmap.png)
+![images](./imgs/golang-developer-roadmap.png)
 
 ## Book
 * [go proverbs](https://go-proverbs.github.io/)
