@@ -24,10 +24,12 @@ spec:
 ## Roadmap
 * [Golang developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 * ![images](./imgs/golang-developer-roadmap.png)
+
 ## Book
-* [A Tour of Go](https://go.dev/tour/welcome/1)
 * [go proverbs](https://go-proverbs.github.io/)
-* [100 Go Mistakes](https://github.com/Nghiait123456/100GoMistakeUpdate)
+* [A Tour of Go](https://go.dev/tour/welcome/1)
 * [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
+* [100 Go Mistakes](https://github.com/Nghiait123456/100GoMistakeUpdate)
+
 ## Talk
 * [comming soon](https://github.com/bamboo-firewall/docs/blob/main/case-studies/PaC-with-bamboofw.pdf)
