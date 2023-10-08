@@ -28,6 +28,7 @@ spec:
 ## Book
 * [go proverbs](https://go-proverbs.github.io/)
 * [A Tour of Go](https://go.dev/tour/welcome/1)
+* [Go training](https://github.com/ardanlabs/gotraining)
 * [Mastering WebSockets With Go](https://programmingpercy.tech/blog/mastering-websockets-with-go/)
 * [100 Go Mistakes](https://github.com/Nghiait123456/100GoMistakeUpdate)
 
